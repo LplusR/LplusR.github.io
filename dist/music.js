@@ -4,15 +4,15 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
-        name: "归去来兮",
-        artist: '叶炫清Cover',
-        url: 'http://www.ytmp3.cn/down/73214.mp3',
+        name: "卡农",
+        artist: '卡农钢琴曲',
+        url: 'http://www.ytmp3.cn/down/20188.mp3',
         cover: 'http://img.ytmp3.cn/image/52.jpg',
       },
       {
-        name: 'һ���������(Live)',
-        artist: 'Ħ���ֵ�',
-        url: 'http://www.ytmp3.cn/down/52772.mp3',
+        name: 'Fire',
+        artist: 'Gavin Degraw',
+        url: 'http://www.ytmp3.cn/down/58954.mp3',
         cover: 'http://img.ytmp3.cn/image/53.jpg',
       },
       {
